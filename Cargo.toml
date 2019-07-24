@@ -5,7 +5,7 @@ authors = ["Daniel Hodvogner <dhodvogner@gmail.com>"]
 edition = "2018"
 description = "Quake/Quake2 .pak file parser written in rust"
 license = "WTFPL"
-repository = "https://github.com/dhodvogner/hello-wasm.git"
+repository = "https://github.com/dhodvogner/rust-q2-pak.git"
 
 [dependencies]
 binary_rw = "0.1.1"
