@@ -1,0 +1,13 @@
+[package]
+name = "rust-q2-pak"
+version = "0.1.0"
+authors = ["Daniel Hodvogner <dhodvogner@gmail.com>"]
+edition = "2018"
+description = "Quake/Quake2 .pak file parser written in rust"
+license = "WTFPL"
+repository = "https://github.com/dhodvogner/hello-wasm.git"
+
+[dependencies]
+binary_rw = "0.1.1"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
