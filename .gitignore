@@ -2,3 +2,4 @@
 **/*.rs.bk
 pak-quake2-demo.pak
 Cargo.lock
+/out
